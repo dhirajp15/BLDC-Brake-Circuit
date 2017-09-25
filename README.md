@@ -6,7 +6,7 @@ A kicad PCB design for Brake circuit for BLDC hub motor
 
 -----------
 
-** Component **
+# Component 
 
 ------------
 
@@ -15,7 +15,7 @@ A kicad PCB design for Brake circuit for BLDC hub motor
 * Opam LM321
 * Voltage Regulator
 
-** Purpose **
+# Purpose
 
 -------
 
@@ -23,6 +23,6 @@ As per my experience with BLDC HUB motors, most of the motor drivers apply brake
 
 -------
 
-** RISK **
+# RISK
 -----
-** WE NEED TO TAKE CARE THAT THE SOFT BRAKES ARE APPLIED BEFORE TO ENSURE THERE IS NOT SUPPLY AT MOTOR PHASE PINS **
+ **WE NEED TO TAKE CARE THAT THE SOFT BRAKES ARE APPLIED BEFORE TO ENSURE THERE IS NOT SUPPLY AT MOTOR PHASE PINS**
