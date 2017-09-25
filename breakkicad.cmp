@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 6/22/2016 1:05:05 AM
+
+BeginCmp
+TimeStamp = /575EFF28;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFFF8;
+Reference = C2;
+ValeurCmp = 10nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFE85;
+Reference = D1;
+ValeurCmp = 15v;
+IdModule  = D3_c;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFD40;
+Reference = IC1;
+ValeurCmp = ICM7555;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F01E3;
+Reference = K1;
+ValeurCmp = mos;
+IdModule  = pin_array_c_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F01EC;
+Reference = K2;
+ValeurCmp = mos;
+IdModule  = pin_array_c_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F01EF;
+Reference = K3;
+ValeurCmp = mos;
+IdModule  = pin_array_c_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFE12;
+Reference = K4;
+ValeurCmp = tip121;
+IdModule  = pin_array_c_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFED5;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = pin_array_c_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F076F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = Wire_Conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFD7A;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = pin_array_c_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F077E;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = Wire_Conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFF42;
+Reference = R1;
+ValeurCmp = 39k';
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F01FC;
+Reference = R2;
+ValeurCmp = 1M;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F0243;
+Reference = R3;
+ValeurCmp = 1M;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /575F0247;
+Reference = R4;
+ValeurCmp = 1M;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /575EFE71;
+Reference = R5;
+ValeurCmp = 3.3k;
+IdModule  = R4-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /576995F7;
+Reference = U1;
+ValeurCmp = LM324;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+EndListe

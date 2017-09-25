@@ -1,0 +1,142 @@
+# EESchema Netlist Version 1.1 created  6/22/2016 1:05:05 AM
+(
+ ( /575EFF28 C1V5 C1 10uF
+  ( 1 /vcc1 )
+  ( 2 /a )
+ )
+ ( /575EFFF8 C2 C2 10nF
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /575EFE85 D3_c D1 15v
+  ( 1 GND )
+  ( 2 N-000011 )
+ )
+ ( /575EFD40 DIP-8__300_ELL IC1 ICM7555
+  ( 1 GND )
+  ( 2 /a )
+  ( 3 /o )
+  ( 4 /vcc1 )
+  ( 5 N-000008 )
+  ( 6 /a )
+  ( 7 ? )
+  ( 8 /vcc1 )
+ )
+ ( /575F01E3 pin_array_c_3 K1 mos
+  ( 1 /o1 )
+  ( 2 /B )
+  ( 3 GND )
+ )
+ ( /575F01EC pin_array_c_3 K2 mos
+  ( 1 /o1 )
+  ( 2 /G )
+  ( 3 GND )
+ )
+ ( /575F01EF pin_array_c_3 K3 mos
+  ( 1 /o1 )
+  ( 2 /Y )
+  ( 3 GND )
+ )
+ ( /575EFE12 pin_array_c_3 K4 tip121
+  ( 1 N-000011 )
+  ( 2 /hvcc )
+  ( 3 VCC )
+ )
+ ( /575EFED5 pin_array_c_2 P1 CONN_2
+  ( 1 /vcc1 )
+  ( 2 VCC )
+ )
+ ( /575F076F Wire_Conn P2 CONN_2
+  ( 1 GND )
+  ( 2 /B )
+ )
+ ( /575EFD7A pin_array_c_2 P3 CONN_2
+  ( 1 GND )
+  ( 2 /hvcc )
+ )
+ ( /575F077E Wire_Conn P4 CONN_2
+  ( 1 /G )
+  ( 2 /Y )
+ )
+ ( /575EFF42 R4-LARGE_PADS R1 39k'
+  ( 1 GND )
+  ( 2 /a )
+ )
+ ( /575F01FC R4-LARGE_PADS R2 1M
+  ( 1 GND )
+  ( 2 /o1 )
+ )
+ ( /575F0243 R4-LARGE_PADS R3 1M
+  ( 1 GND )
+  ( 2 /o1 )
+ )
+ ( /575F0247 R4-LARGE_PADS R4 1M
+  ( 1 GND )
+  ( 2 /o1 )
+ )
+ ( /575EFE71 R4-LARGE_PADS R5 3.3k
+  ( 1 N-000011 )
+  ( 2 /hvcc )
+ )
+ ( /576995F7 DIP-14__300_ELL U1 LM324
+  ( 1 /o1 )
+  ( 2 /o1 )
+  ( 3 /o )
+  ( 4 /vcc1 )
+  ( 11 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ SO*
+ SM*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
